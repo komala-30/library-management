@@ -109,29 +109,3 @@ def menu():
 
 menu()
 sqlite3
-# Library Management System
-
-A simple console-based Library Management System built using Python and SQLite.
-
-## Features
-- Add new books
-- View available books
-- Issue books
-- Return books
-- Delete books
-- Persistent database storage
-
-## Technologies Used
-- Python 3
-- SQLite
-
-## How to Run
-1. Clone the repository
-2. Run the command:
-   python main.py
-
-## Database
-The database file `library.db` is automatically created.
-
-## Author
-Your Name
